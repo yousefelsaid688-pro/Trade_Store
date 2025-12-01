@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Trade_Store/static/css/main.e4973d94.css",
-    "main.js": "/Trade_Store/static/js/main.fa81af41.js",
+    "main.js": "/Trade_Store/static/js/main.f85aa486.js",
     "static/js/453.61e00712.chunk.js": "/Trade_Store/static/js/453.61e00712.chunk.js",
     "static/media/banner_kids.png": "/Trade_Store/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/Trade_Store/static/media/banner_women.5a27fc4e4533e57e4676.png",
     "static/media/banner_mens.png": "/Trade_Store/static/media/banner_mens.eed7197157196f319b17.png",
-    "static/media/hero_image.png": "/Trade_Store/static/media/hero_image.09ff1c4114792a6143c2.png",
     "static/media/product_9.png": "/Trade_Store/static/media/product_9.c801212aa3bed83e7572.png",
+    "static/media/smartphones.jpg": "/Trade_Store/static/media/smartphones.b8377e1b8c9750473d46.jpg",
     "static/media/exclusive_image.png": "/Trade_Store/static/media/exclusive_image.e8118f2149d9cb916980.png",
     "static/media/product_8.png": "/Trade_Store/static/media/product_8.2cf4747c23b5e634072c.png",
     "static/media/product_5.png": "/Trade_Store/static/media/product_5.437deb074cfe97900c5e.png",
@@ -48,11 +48,11 @@
     "static/media/hand_icon.png": "/Trade_Store/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/Trade_Store/index.html",
     "main.e4973d94.css.map": "/Trade_Store/static/css/main.e4973d94.css.map",
-    "main.fa81af41.js.map": "/Trade_Store/static/js/main.fa81af41.js.map",
+    "main.f85aa486.js.map": "/Trade_Store/static/js/main.f85aa486.js.map",
     "453.61e00712.chunk.js.map": "/Trade_Store/static/js/453.61e00712.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4973d94.css",
-    "static/js/main.fa81af41.js"
+    "static/js/main.f85aa486.js"
   ]
 }
