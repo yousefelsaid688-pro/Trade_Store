@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trade_Store/static/css/main.e4973d94.css",
-    "main.js": "/Trade_Store/static/js/main.2faba5bf.js",
+    "main.js": "/Trade_Store/static/js/main.fa81af41.js",
     "static/js/453.61e00712.chunk.js": "/Trade_Store/static/js/453.61e00712.chunk.js",
     "static/media/banner_kids.png": "/Trade_Store/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/Trade_Store/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -44,14 +44,15 @@
     "static/media/product_18.png": "/Trade_Store/static/media/product_18.7bc661c637994b718fca.png",
     "static/media/product_26.png": "/Trade_Store/static/media/product_26.1ddf1e3b668f2e7b7683.png",
     "static/media/product_35.png": "/Trade_Store/static/media/product_35.073b8b5de77cfc979821.png",
+    "static/media/LOGO_TRADE.jpg": "/Trade_Store/static/media/LOGO_TRADE.e4ea53edccf2bb64ec64.jpg",
     "static/media/hand_icon.png": "/Trade_Store/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/Trade_Store/index.html",
     "main.e4973d94.css.map": "/Trade_Store/static/css/main.e4973d94.css.map",
-    "main.2faba5bf.js.map": "/Trade_Store/static/js/main.2faba5bf.js.map",
+    "main.fa81af41.js.map": "/Trade_Store/static/js/main.fa81af41.js.map",
     "453.61e00712.chunk.js.map": "/Trade_Store/static/js/453.61e00712.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4973d94.css",
-    "static/js/main.2faba5bf.js"
+    "static/js/main.fa81af41.js"
   ]
 }
