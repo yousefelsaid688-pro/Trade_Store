@@ -34,13 +34,14 @@ import p33_img from "./product_33.png";
 import p34_img from "./product_34.png";
 import p35_img from "./product_35.png";
 import p36_img from "./product_36.png";
+import p37_img from "./ip-17max.webp"
 
 let all_product = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    category: "women",
-    image: p1_img,
+    name: "IPHONE 17 PRO MAX 256G MIDDLE EAST Edition **NO-TAXES**",
+    category: "APPLE PRODUCTS",
+    image: p37_img,
     new_price: 50.0,
     old_price: 80.5,
   },
